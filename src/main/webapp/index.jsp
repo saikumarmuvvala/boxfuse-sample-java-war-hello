@@ -51,9 +51,9 @@
 
 <p>Check out <strong><a href="https://github.com/Chandupasi/boxfuse-sample-java-war-hello">this app</a></strong> from GitHub, modify it, and give it version 2.<br/>You are now ready to fuse and <strong>deploy it with zero downtime</strong> using the commands you already know.</p>
 
-<p>Alternatively you can go back to the <strong><a href="https://www.facebook.com/techspaceaia ">Boxfuse Console</a></strong>,<br/> and simply create your own.</p>
+<p>Alternatively you can go back to the <strong><a href="https://www.facebook.com/techspaceaia ">tech space console</a></strong>,<br/> and simply create your own.</p>
 
-<p>If you need any help the <strong><a href="https://www.facebook.com/techspaceaia">techspaceinformation</a></strong> is there for you,<br/>or simply shoot us an email at <a href="mailto:support@boxfuse.com">support@boxfuse.com</a></p>
+<p>If you need any help the <strong><a href="https://www.facebook.com/techspaceaia">techspaceinformation</a></strong> is there for you,<br/>or simply shoot us an email at <a href="mailto:support@techspaceai.com">support@techspaceai.com</a></p>
 
 <p>Say goodbye to aws devlopers.</p>
 <p><strong>Enjoy aws cloud computing! thank you so much for consider my site</strong></p>
