@@ -1,10 +1,10 @@
 <html>
 <head>
-    <title>Boxfuse Sample App: success!</title>
+    <title>aws devloprs: success!</title>
 </head>
 <body style="text-align: center">
 <h1>Congratulations!</h1>
-<img src="boxfuse.png">
+<img src="tech space.jpg">
 
 <h2>You have successfully launched your Instance! well come to all of you we are very glade to invites you</h2>
 
@@ -42,7 +42,7 @@
 </p>
 
 <p>
-    Deploy this Image unchanged on AWS:<br/>
+    Deploy this Image changed on AWS:<br/>
     <strong>boxfuse run -env=prod <%= System.getenv("BOXFUSE_APP")%>:<%= System.getenv("BOXFUSE_IMAGE_VERSION")%>
     </strong>
 </p>
@@ -55,8 +55,8 @@
 
 <p>If you need any help the <strong><a href="https://www.facebook.com/techspaceaia">techspaceinformation</a></strong> is there for you,<br/>or simply shoot us an email at <a href="mailto:support@boxfuse.com">support@boxfuse.com</a></p>
 
-<p>Say goodbye to snowflake servers.</p>
-<p><strong>Enjoy Boxfuse! thank you so much for consider my site</strong></p>
+<p>Say goodbye to aws devlopers.</p>
+<p><strong>Enjoy aws cloud computing! thank you so much for consider my site</strong></p>
 <% } %>
 </body>
 </html>
