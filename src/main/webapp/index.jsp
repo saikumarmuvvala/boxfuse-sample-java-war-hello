@@ -56,7 +56,7 @@
 <p>If you need any help the <strong><a href="https://www.facebook.com/techspaceaia">techspaceinformation</a></strong> is there for you,<br/>or simply shoot us an email at <a href="mailto:support@techspaceai.com">support@techspaceai.com</a></p>
 
 <p>Say goodbye to aws devlopers.</p>
-<p><strong>Enjoy aws cloud computing! thank you so much for consider my site</strong></p>
+<p><strong>Thanks</strong></p>
 <% } %>
 </body>
 </html>
